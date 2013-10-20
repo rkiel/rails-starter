@@ -1,8 +1,8 @@
 ### Rails Starter
 
-Clone this repo to quickly create new Rails application without having Rails installed.
+Clone this repository to quickly create a new Rails application without having Ruby and Rails installed.
 
-I created this repo with the output from the command `rails new rails-starter`.
+I created this repository with the output from the command `rails new rails-starter`.
 
 ### Installation
 
