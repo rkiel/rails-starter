@@ -15,18 +15,11 @@ git clone https://github.com/rkiel/rails-starter.git MY_NEW_APP
 cd MY_NEW_APP
 ```
 
-Reset the README.md file
+Change the references to RailsStarter
 
 ```unix
-echo "# MY_NEW_APP" > README.md
-```
-
-If you don't want your `database.yml` under source control.
-
-```unix
-cp config/database.yml config/database.sample.yml
-rm config/database.yml
-echo "config/database.yml" >> .gitignore
+./bin/starter.sh MyNewApp
+rm bin/starter.sh
 ```
 
 ```unix
