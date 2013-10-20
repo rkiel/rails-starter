@@ -18,13 +18,6 @@ Go to the newly created project.
 cd MY_NEW_APP
 ```
 
-Each version of Rails is tagged.  List all the tags and checkout the one you want to start with. For example, choose 4.0.0.
-
-```unix
-git tag -l
-git checkout v4.0.0
-```
-
 Change the references to RailsStarter
 
 ```unix
