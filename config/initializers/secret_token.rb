@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-RailsStarter::Application.config.secret_key_base = 'f12434754d25a51ae4e62f33721e20b00f27e2e4ec08720fc31e688204da54ac64120e8d4f2efe923ad79c63c8f84d8cb8faed2f933eda7191334da8ffb9230f'
+RailsStarter::Application.config.secret_key_base = '6ebffbd6137dc2c339a2e1055820abd6909e34512808c517f54984106bbdf56433e41a173abab5c49dfaa9dce81dfa1b403f58d552de9bc7b10f24f1e0c80ac3'
